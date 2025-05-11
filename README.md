@@ -16,8 +16,7 @@ Fichiers :
 
 Auteur : ElyKar
 
-Origine : 
-- [Badd Circuit](https://hackropole.fr/fr/challenges/hardware/fcsc2025-hardware-baddcircuit/)
+Origine : [Badd Circuit](https://hackropole.fr/fr/challenges/hardware/fcsc2025-hardware-baddcircuit/)
 
 
 -----------
